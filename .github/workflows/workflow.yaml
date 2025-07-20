@@ -8,7 +8,7 @@ on:
 
 jobs:
   build-android:
-    name: Build APK (Android)
+    name: Build APK ( Android)
     runs-on: ubuntu-latest
 
     steps:
